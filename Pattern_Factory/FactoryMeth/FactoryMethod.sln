@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab8_OOAP", "Lab8_OOAP.vcxproj", "{1C97374B-9ED8-4986-91A2-34C3946CF292}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C97374B-9ED8-4986-91A2-34C3946CF292}.Debug|x64.ActiveCfg = Debug|x64
+		{1C97374B-9ED8-4986-91A2-34C3946CF292}.Debug|x64.Build.0 = Debug|x64
+		{1C97374B-9ED8-4986-91A2-34C3946CF292}.Debug|x86.ActiveCfg = Debug|Win32
+		{1C97374B-9ED8-4986-91A2-34C3946CF292}.Debug|x86.Build.0 = Debug|Win32
+		{1C97374B-9ED8-4986-91A2-34C3946CF292}.Release|x64.ActiveCfg = Release|x64
+		{1C97374B-9ED8-4986-91A2-34C3946CF292}.Release|x64.Build.0 = Release|x64
+		{1C97374B-9ED8-4986-91A2-34C3946CF292}.Release|x86.ActiveCfg = Release|Win32
+		{1C97374B-9ED8-4986-91A2-34C3946CF292}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD583821-7D92-4668-AC69-EDBEDB1618D6}
+	EndGlobalSection
+EndGlobal
